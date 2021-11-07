@@ -3,13 +3,12 @@
 Software Engineer passionate about web development, more for back-end development and databases.
 
 
-- ⚡ *Fun fact:* I believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
-	- Linear regression on Health data
-	- Twitter Sentimental Analysis using NLP and clustering
-- :bulb: I'm interested in all things data: *Big Data, Cloud, Machine Learning and Data Science*
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing *Machine learning*.
+	- Development of web platforms
+	- recently to the development of mobile applications
+- :bulb: I am interested in databases as well as video game development
+- 💬 Talk to me about video games, series, movies, theories, philosophy, books, you can talk to me about anything and I won't get bored, anything that interests you.
+- 🌱 I’m currently pursuing *AI, databases, a better process for web development, different languages such as JavaScript freamworks *.
 
 ### My skills include
 

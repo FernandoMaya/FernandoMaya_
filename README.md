@@ -20,10 +20,7 @@ Software Engineer passionate about web development, more for back-end developmen
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="PHP" alt="PHP" src="PHP.png" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />	
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
+	<img title="React Native" alt="React Native" src="https://github.com/FernandoMaya/FernandoMaya_/blob/d559ca211e872d67c3f72006533a9ec98b631770/REACT%20NATIVE.png" width="40" height="40" />	
 </p>
 
 <!--
@@ -42,16 +39,4 @@ Here are some ideas to get you started:
 -->
 
 
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
-    
-    
-*If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.*
-<hr>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=w…
+<a target="_blank" href="https://www.linkedin.com/in/fernando-maya-carranza-268b0814b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=w…
